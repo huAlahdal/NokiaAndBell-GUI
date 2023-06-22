@@ -1,0 +1,20 @@
+C:\Users\Jafar\source\repos\NokiaAndBell GUI\NokiaAndBell GUI\bin\Release\NokiaAndBell GUI.exe.config
+C:\Users\Jafar\source\repos\NokiaAndBell GUI\NokiaAndBell GUI\bin\Release\NokiaAndBell GUI.exe
+C:\Users\Jafar\source\repos\NokiaAndBell GUI\NokiaAndBell GUI\bin\Release\NokiaAndBell GUI.pdb
+C:\Users\Jafar\source\repos\NokiaAndBell GUI\NokiaAndBell GUI\bin\Release\Nancy.dll
+C:\Users\Jafar\source\repos\NokiaAndBell GUI\NokiaAndBell GUI\bin\Release\Newtonsoft.Json.dll
+C:\Users\Jafar\source\repos\NokiaAndBell GUI\NokiaAndBell GUI\bin\Release\Nancy.xml
+C:\Users\Jafar\source\repos\NokiaAndBell GUI\NokiaAndBell GUI\bin\Release\Newtonsoft.Json.xml
+C:\Users\Jafar\source\repos\NokiaAndBell GUI\NokiaAndBell GUI\obj\Release\NokiaAndBell GUI.csprojAssemblyReference.cache
+C:\Users\Jafar\source\repos\NokiaAndBell GUI\NokiaAndBell GUI\obj\Release\NokiaAndBell GUI.csproj.ResolveComReference.cache
+C:\Users\Jafar\source\repos\NokiaAndBell GUI\NokiaAndBell GUI\obj\Release\NokiaAndBell_GUI.Form1.resources
+C:\Users\Jafar\source\repos\NokiaAndBell GUI\NokiaAndBell GUI\obj\Release\NokiaAndBell_GUI.ManualSearch.resources
+C:\Users\Jafar\source\repos\NokiaAndBell GUI\NokiaAndBell GUI\obj\Release\NokiaAndBell_GUI.Properties.Resources.resources
+C:\Users\Jafar\source\repos\NokiaAndBell GUI\NokiaAndBell GUI\obj\Release\NokiaAndBell_GUI.SearchByTxt.resources
+C:\Users\Jafar\source\repos\NokiaAndBell GUI\NokiaAndBell GUI\obj\Release\NokiaAndBell_GUI.UpdateUser.resources
+C:\Users\Jafar\source\repos\NokiaAndBell GUI\NokiaAndBell GUI\obj\Release\NokiaAndBell GUI.csproj.GenerateResource.cache
+C:\Users\Jafar\source\repos\NokiaAndBell GUI\NokiaAndBell GUI\obj\Release\NokiaAndBell GUI.csproj.CoreCompileInputs.cache
+C:\Users\Jafar\source\repos\NokiaAndBell GUI\NokiaAndBell GUI\obj\Release\NokiaAndBell GUI.csproj.CopyComplete
+C:\Users\Jafar\source\repos\NokiaAndBell GUI\NokiaAndBell GUI\obj\Release\NokiaAndBell GUI.exe
+C:\Users\Jafar\source\repos\NokiaAndBell GUI\NokiaAndBell GUI\obj\Release\NokiaAndBell GUI.pdb
+C:\Users\Jafar\source\repos\NokiaAndBell GUI\NokiaAndBell GUI\obj\Release\NokiaAndBell_GUI.QcSearch.resources
